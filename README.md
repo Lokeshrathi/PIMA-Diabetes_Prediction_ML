@@ -16,7 +16,7 @@
 - Target Columns is: 'Outcome'
 - We plot graphs to see the variation of each Independent variable
 
-![](/master/Images/PIMA1.png)
+![](/Images/PIMA1.png)
 
 - We plot graph to verify the outliers so that we can clean our dataset.
 
@@ -24,7 +24,7 @@
 
 - Plot to check the correlation between the data points.
 
-![](/master/Images/PIMA3.png)
+![](/Images/PIMA3.png)
 
 ## Data Scaling:
 
