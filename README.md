@@ -42,6 +42,10 @@
  - reg_lambda
  
 > We get a accuracy score of 82.1429% 
+
+- Graph plot for ROC and AUC
+
+![](/Images/Pima3.png)
  
 - We also use Logistic Regression with cross-validation technique to check:
  - log_loss
