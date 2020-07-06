@@ -53,6 +53,5 @@
  - f1 score
 > We get a mean accuracy of 78.02% 
 
-### If you like my content, please STAR my work and you can also upstar me at [KAGGLE](https://www.kaggle.com/lokeshrth4617/hyperparamter-modeling-the-beginner-s-guide/notebook)
-
+### If you like my content, please STAR my work and you can also upstar me at [KAGGLE](https://www.kaggle.com/lokeshrth4617/hyperparamter-modeling-the-beginner-s-guide?scriptVersionId=38224491)
 ## Thank you!
